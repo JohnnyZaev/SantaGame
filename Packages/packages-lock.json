@@ -1,96 +1,32 @@
 {
   "dependencies": {
-    "com.unity-atoms.unity-atoms-base-atoms": {
-      "version": "4.5.0",
+    "com.leopotam.ecslite": {
+      "version": "https://github.com/Leopotam/ecslite.git",
       "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.modules.physics": "1.0.0",
-        "com.unity.modules.physics2d": "1.0.0",
-        "com.unity-atoms.unity-atoms-core": "4.5.0"
-      },
-      "url": "https://registry.npmjs.org"
+      "source": "git",
+      "dependencies": {},
+      "hash": "984856664a3ae7cff5b8a16eb7ab26ec02cb47d5"
     },
-    "com.unity-atoms.unity-atoms-core": {
-      "version": "4.5.0",
+    "com.leopotam.ecslite.di": {
+      "version": "https://github.com/Leopotam/ecslite-di.git",
       "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.modules.uielements": "1.0.0"
-      },
-      "url": "https://registry.npmjs.org"
+      "source": "git",
+      "dependencies": {},
+      "hash": "0709e936b4ee68ad834276d5a75a3931ed7dcbbe"
     },
-    "com.unity-atoms.unity-atoms-fsm": {
-      "version": "4.5.0",
+    "com.leopotam.ecslite.extendedsystems": {
+      "version": "https://github.com/Leopotam/ecslite-extendedsystems.git",
       "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity-atoms.unity-atoms-core": "4.5.0",
-        "com.unity-atoms.unity-atoms-base-atoms": "4.5.0"
-      },
-      "url": "https://registry.npmjs.org"
+      "source": "git",
+      "dependencies": {},
+      "hash": "007a5af4aaa1c4993523232f306a5f02e1de7c0f"
     },
-    "com.unity-atoms.unity-atoms-input-system": {
-      "version": "4.5.0",
+    "com.leopotam.ecslite.unityeditor": {
+      "version": "https://github.com/Leopotam/ecslite-unityeditor.git",
       "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity-atoms.unity-atoms-core": "4.5.0",
-        "com.unity-atoms.unity-atoms-base-atoms": "4.5.0",
-        "com.unity.inputsystem": "1.0.1"
-      },
-      "url": "https://registry.npmjs.org"
-    },
-    "com.unity-atoms.unity-atoms-mobile": {
-      "version": "4.5.0",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity-atoms.unity-atoms-core": "4.5.0",
-        "com.unity-atoms.unity-atoms-base-atoms": "4.5.0"
-      },
-      "url": "https://registry.npmjs.org"
-    },
-    "com.unity-atoms.unity-atoms-mono-hooks": {
-      "version": "4.5.0",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.ugui": "1.0.0",
-        "com.unity-atoms.unity-atoms-core": "4.5.0",
-        "com.unity-atoms.unity-atoms-base-atoms": "4.5.0"
-      },
-      "url": "https://registry.npmjs.org"
-    },
-    "com.unity-atoms.unity-atoms-scene-mgmt": {
-      "version": "4.5.0",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity-atoms.unity-atoms-core": "4.5.0",
-        "com.unity-atoms.unity-atoms-base-atoms": "4.5.0"
-      },
-      "url": "https://registry.npmjs.org"
-    },
-    "com.unity-atoms.unity-atoms-tags": {
-      "version": "4.5.0",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity-atoms.unity-atoms-core": "4.5.0",
-        "com.unity-atoms.unity-atoms-base-atoms": "4.5.0"
-      },
-      "url": "https://registry.npmjs.org"
-    },
-    "com.unity-atoms.unity-atoms-ui": {
-      "version": "4.5.0",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity-atoms.unity-atoms-core": "4.5.0",
-        "com.unity-atoms.unity-atoms-base-atoms": "4.5.0"
-      },
-      "url": "https://registry.npmjs.org"
+      "source": "git",
+      "dependencies": {},
+      "hash": "480dbdfd0d73591f93ca010ea1a52bfa8e4cc06e"
     },
     "com.unity.2d.animation": {
       "version": "9.0.4",
